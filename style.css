@@ -1,0 +1,75 @@
+.header{
+    text-align: right;
+    margin-right: 200px;
+}
+.link{
+    color:red
+}
+
+.main{    
+    width: 250px;
+    height: 200px;
+    background-color: rgb(53, 154, 161);
+    border-radius: 5%;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+#headID{
+    align-items: center;
+    width: 175px;
+    height: 175px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    color: black;
+}
+
+button{
+    padding: 0;
+    border-style: none solid none solid;
+    border-color: black;
+    background: none;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+input{
+    background-color: lightgrey;
+    border-radius: 30px; 
+    border: none;
+    height: 13px;
+}
+
+p{
+    margin-bottom: 2px;
+}
+
+
+#loginButton{
+    border-radius: 30px; 
+    border: none;
+    background-color: lightgreen;
+    margin-top: 10px;
+}
+
+.mainDiv{
+    height: 500px;
+}
+
+
+.footer{
+    text-align: center;
+}
+
+#symbol{
+    height: 2px;
+}
